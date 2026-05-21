@@ -1,0 +1,10 @@
+name=input("enter your name:")
+print("ela  unnaru "+name+" we grow here together")
+
+age=int(input("enter your age:"))
+cgpa=float(input("enter cgpa:"))
+status=input("placed?yes/no:")
+o=list(input("enter your details:"))
+l=tuple(input("enter your details:"))
+q=set(input("enter a details:"))
+f=dict(name=input("enter your name:"),age=int(input("enter your age:")))
